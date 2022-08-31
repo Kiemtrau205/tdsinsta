@@ -1,0 +1,17 @@
+{
+    "token_tds": "TDS9JSNyVmdlNnI6IiclZXZzJCLiEzbyBXbll2aiojIyV2c1Jye",
+    "type":{
+        "heart":{
+            "get_list": "instagram_like" ,
+            "duyet_nv": "INS_LIKE_CACHE"
+        },
+        "comment":{
+            "get_list": "instagram_comment",
+            "duyet_nv": "INS_COMMENT_CACHE"
+        },
+        "follow":{
+            "get_list": "instagram_follow",
+            "duyet_nv": "INS_FOLLOW_CACHE"
+        }
+    }
+}
